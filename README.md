@@ -9,4 +9,4 @@ The scripts in this repo were created as part of my work with [Rourke O'Brien](h
 3. County_Data_Join.R: This script handles the merging of the output of the above scripts with demographic data sourced from the CDC and from the Census Bureau's ACS
 
 # Data
-Due to the constraints for file uploads to GitHub, I have chosen to store the data for this project in a Google Drive folder.
+Due to the constraints for file uploads to GitHub, I have chosen to store the data for this project in a [Google Drive folder](https://drive.google.com/drive/folders/1RqqXgEbP79jHw_IN28wdOm-aKYDSXOWx?usp=sharing).
